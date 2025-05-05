@@ -47,8 +47,8 @@
 
 ## 🔗 Connect with Me:
 - 💬 WhatsApp Dev Circle → [Living in Code](#)
-- 🌍 Portfolio → *(Coming soon...)*
-- 📧 Email → kokonyapeter@gmail.com  
+- 🌍 Portfolio → *https://friendly-kangaroo-a1cfde.netlify.app/*
+- 📧 Email → kokonyazeus@gmail.com  
 
 ---
 
