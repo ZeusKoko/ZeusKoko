@@ -29,19 +29,19 @@
 ---
 
 ## 📊 GitHub Stats:
-![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=kokonyap&show_icons=true&theme=radical&count_private=true)
+![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeusKoko&show_icons=true&theme=radical&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kokonyap&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeusKoko&layout=compact&theme=radical)
 
 ---
 
 ## 🏆 Trophies:
-![Trophy](https://github-profile-trophy.vercel.app/?username=kokonyap&theme=radical&margin-w=10&no-frame=true)
+![Trophy](https://github-profile-trophy.vercel.app/?username=ZeusKoko&theme=radical&margin-w=10&no-frame=true)
 
 ---
 
 ## 🔥 Streaks:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kokonyap&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZeusKoko&theme=radical)](https://git.io/streak-stats)
 
 ---
 
@@ -52,4 +52,4 @@
 
 ---
 
-> _"Wounded but immortal — I code through pain, I rise through fire."_ 💀⚔️  
+> _🧠 "Hustle in the logic, art in the layout — my code speaks before I do."_ 
