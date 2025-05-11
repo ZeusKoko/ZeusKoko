@@ -1,7 +1,7 @@
 # 👋🏽 Hi, I'm Peter "Zeus" Kokonya  
 
 🎯 **Focused | Fast | Fearless**  
-🧠 Web Developer | Graphics Designer | Hustler in the Code Game  
+🧠 Web Developer | Graphics Designer | Hustler in the Code Game.
 💼 Founder of **6Code** | Building solutions with passion & precision
 
 ---
@@ -22,7 +22,7 @@
 ---
 
 ## 🧠 Current Focus:
-- 🛠 Building a **rental property management system**  
+- 🛠 Building a **The most unique ecommerce store**  
 - 🌍 Developing NGO apps to **impact lives globally**  
 - 💡 Exploring **AI integration in eCommerce**
 
