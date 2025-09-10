@@ -57,10 +57,10 @@
 ## 🐍 Contribution Snake  
 
 ### Light Mode  
-![Snake animation](https://github.com/ZeusKoko/ZeusKoko/blob/output/snake.svg#gh-light-mode-only)  
+![Snake animation](https://raw.githubusercontent.com/ZeusKoko/ZeusKoko/output/snake.svg#gh-light-mode-only)  
 
 ### Dark Mode  
-![Snake animation](https://github.com/ZeusKoko/ZeusKoko/blob/output/snake-dark.svg#gh-dark-mode-only)  
+![Snake animation](https://raw.githubusercontent.com/ZeusKoko/ZeusKoko/output/snake-dark.svg#gh-dark-mode-only)  
 
 ---
 
