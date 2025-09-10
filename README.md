@@ -52,7 +52,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=FF7F00&center=true&vCenter=true&lines=Code.+Create.+Conquer.+;Living+in+Code+⚡;Hustle+in+the+Logic%2C+Art+in+the+Layout.)  
 
 ---
-
 ## 🐍 Contribution Snake  
 
 <p align="center">
