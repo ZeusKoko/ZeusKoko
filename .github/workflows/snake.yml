@@ -6,14 +6,14 @@ on:
   workflow_dispatch: # Allow manual run
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Checkout repo content
         uses: actions/checkout@v3
 
-      - name: Generate snake SVG
-        uses: Platane/snk/svg-only@v3
+      - name: Generate snake animation
+        uses: Platane/snk@v3
         with:
           github_user_name: ZeusKoko
           outputs: dist/snake.svg dist/snake-dark.svg
