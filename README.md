@@ -1,10 +1,12 @@
-# 👋🏽 Hi, I'm Peter **"Zeus"** Kokonya  
+# 👋🏽 Hi, I'm **"Zeus"**  
+
+![Coding](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cm9kbm45eGh5aHQxanZlNWdidncyb282aHB4dTNkOWVpMGk1OXJ5aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ki4TwqOJ3wTK2HYYx6/giphy.gif)  
+
 
 🎯 **Focused | Fast | Fearless**  
 🧠 Web Developer | Graphics Designer | Hustler in the Code Game  
 💼 Founder of **6Code** | Building solutions with passion & precision  
 
-![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
 
 ---
 
@@ -50,13 +52,6 @@
 
 ## 🎶 Fun Touch  
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=FF7F00&center=true&vCenter=true&lines=Code.+Create.+Conquer.+;Living+in+Code+⚡;)  
-
----
-## 🐍 Contribution Snake  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ZeusKoko/ZeusKoko/output/snake.svg" alt="Snake animation" />
-</p>
 
 ---
 
